@@ -12,6 +12,9 @@ implement a proposal we have already reviewed.
 3. If we accept it, a Mathematic maintainer or agent will implement the change
    and open the pull request.
 
+When Mathematic implements a proposal, the implementation PR will link to the
+Discussion and credit its original author.
+
 GitHub restricts pull request creation to Mathematic maintainers and repository
 collaborators with write, maintain, or admin access, plus authorized maintenance
 agents. Everyone else should use the discussion process above.
