@@ -1,7 +1,9 @@
 *
 !.gitignore
 !.github/
+!.github/dependabot.yml
 !.github/workflows/
+!.github/workflows/dependabot-automerge.yml
 !.github/workflows/hk.yml
 !.yamllint
 !hk.pkl
