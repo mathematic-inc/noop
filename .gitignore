@@ -1,2 +1,8 @@
 *
 !.gitignore
+!.github/
+!.github/workflows/
+!.github/workflows/hk.yml
+!.yamllint
+!hk.pkl
+!mise.toml

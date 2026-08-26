@@ -6,8 +6,9 @@ implement a proposal we have already reviewed.
 
 ## Propose a change
 
-1. [Start a Discussion](../../discussions/new) describing the problem and the
-   result you want.
+1. [Start a
+   Discussion](https://github.com/mathematic-inc/noop/discussions/new)
+   describing the problem and the result you want.
 2. Wait for a Mathematic maintainer to review the proposal.
 3. If we accept it, a Mathematic maintainer or agent will implement the change
    and open the pull request.
