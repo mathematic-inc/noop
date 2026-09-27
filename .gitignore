@@ -5,6 +5,7 @@
 !.github/workflows/
 !.github/workflows/dependabot-automerge.yml
 !.github/workflows/hk.yml
+!.github/workflows/codeql.yml
 !.yamllint
 !hk.pkl
 !mise.toml
